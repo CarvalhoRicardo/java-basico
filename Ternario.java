@@ -15,6 +15,18 @@ public class Ternario {
         String resultado2 = a<=b ?"Verdadeiro" : "Falso";
 
             System.out.println(resultado2);
-    }
+
+        String resultado3 = a!=b ?"Verdadeiro" : "Falso";
+
+            System.out.println(resultado3);
+
+        String resultado4 = a>b ?"Verdadeiro" : "Falso";
+        
+            System.out.println(resultado4);
+
+        String resultado5 = a<b ?"Verdadeiro" : "Falso";
+
+            System.out.println(resultado5);
+     }
     
 }
